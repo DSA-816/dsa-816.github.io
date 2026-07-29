@@ -45,10 +45,16 @@ site_author = "<Numb25>"
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = [
-#   { "Get started" = "index.md" },
-#   { "Markdown in 5min" = "markdown.md" },
-# ]
+nav = [
+    { "主页" = "index.md" },
+    { "资源" = [
+        { "学习资源" = "source/learning.md" },
+        { "其他战队的资源" = "source/other_teams.md" },
+    ] },
+    { "仓库" = [
+        { "2025赛季" = "repo/2025.md" },
+    ] },
+]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
