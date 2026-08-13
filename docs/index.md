@@ -5,11 +5,13 @@ icon: lucide/rocket
 # RexCore TeamRepo
 
 这是战队的资源栈
+---
+# 悟已往之不谏，知来者之可追。
 
+!!! Todos
+    豪情在天
 
-!!! note
-
-    This is a **note** admonition. Use it to provide helpful information.
+    
 
 !!! warning
 
