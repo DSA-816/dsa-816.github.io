@@ -52,8 +52,10 @@ nav = [
         { "其他战队的资源" = "source/other_teams.md" },
     ] },
     { "仓库" = [
-        { "2025赛季" = "repo/2025.md" },
+        { "2026赛季" = "repo/2026.md" },
+        { "2027赛季" = "repo/2027.md"},
     ] },
+    { "组件示例" = "demo/components.md" },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
@@ -72,7 +74,10 @@ nav = [
 # The path provided should be relative to the "docs_dir".
 #
 # Read more: https://zensical.org/docs/customization/#additional-javascript
-#extra_javascript = ["javascripts/extra.js"]
+extra_javascript = [
+    "javascripts/mathjax.js",
+    "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"
+]
 
 # ----------------------------------------------------------------------------
 # Section for configuring theme options
