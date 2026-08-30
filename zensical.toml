@@ -55,7 +55,15 @@ nav = [
         { "2026赛季" = "repo/2026.md" },
         { "2027赛季" = "repo/2027.md"},
     ] },
-    { "组件示例" = "demo/components.md" },
+    { "示例" = [
+        { "组件示例" = "demo/components.md" },
+        { "文章示例" = "demo/essay.md" },
+        { "图片展示" = "demo/images.md" },
+        { "链接展示" = "demo/links.md" },
+    ] },
+    { "AI文档" = [
+        { "VS Code 配置指南" = "aidocs/vscode-config.md" },
+    ] },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize

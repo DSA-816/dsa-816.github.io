@@ -1,3 +1,19 @@
 {
+    // ==================== 编辑器外观 ====================
+    "window.zoomLevel": 0,
+
+
+    // ==================== 字体设置 ====================
+    "editor.fontFamily": "'JetBrains Mono', monospace",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 22,
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "400",
+    // ==================== 代码提示 ====================
+    "editor.inlayHints.enabled": "on",
+    "editor.parameterHints.enabled": true,
+    "editor.suggestSelection": "first",
+    
+
     "claudeCodeChat.permissions.yoloMode": true
 }
