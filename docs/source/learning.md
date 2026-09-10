@@ -23,7 +23,7 @@
 
 ### 语言入门
 
-> 👇节奏较慢，听完后掌握需要写OJ
+> 👇节奏较慢，听完后掌握需要写OJ （**隐形**学会知乎的语言体系与范式或许是最好的融入方法，即自以为是的精英视角（如果你能从其中的戾气与优越感中走出来的话））
 
 [C语言入门]( https://www.bilibili.com/video/BV1dr4y1n7vA/?share_source=copy_web&vd_source=aebf49816ab71f732cbaf6cd162954b9)
 
@@ -33,7 +33,7 @@
 
 [网道](https://wangdoc.com/clang/)
 
-> OJ平台
+> OJ平台 （试图当作纯粹的Judge平台而不是做题Reward Hacking/Racing平台，我也不能做到）
 
 [OpenJudge](https://www.openjudges.com/)
 
@@ -44,8 +44,19 @@
 
 ### 操作系统
 
+> Linux-101 - 很实用的手册，尝试通过构建来掌握书写方式
 
+[Linux-101](https://101.lug.ustc.edu.cn/)
 
+> The Missing Semester - 在精通时也是优秀的手册，走马观花过一遍也有很多收获
 
+[MissingCS](https://missing.csail.mit.edu/)
 
+> 南大操作系统2022 - 操作系统的武林秘籍
+
+[JYY](https://www.bilibili.com/video/BV1Cm4y1d7Ur/?share_source=copy_web&vd_source=aebf49816ab71f732cbaf6cd162954b9)
+
+> 南大PA - 及其艰难的实践项目、因缺乏对“无聊”事物的持续兴趣没能坚持下来
+
+[PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2022/0.2.html)
  

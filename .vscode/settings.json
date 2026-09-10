@@ -4,7 +4,7 @@
 
 
     // ==================== 字体设置 ====================
-    "editor.fontFamily": "'JetBrains Mono', monospace",
+    "editor.fontFamily": "'0xProto Nerd Font Mono','Source Han Code Pro', 'Microsoft YaHei'",
     "editor.fontSize": 14,
     "editor.lineHeight": 22,
     "editor.fontLigatures": true,
@@ -14,6 +14,17 @@
     "editor.parameterHints.enabled": true,
     "editor.suggestSelection": "first",
     
+    // ==================== 特定终端的字体设置 ====================
+    "terminal.integrated.fontFamily": "'0xProto Nerd Font Mono','Source Han Code Pro', 'Microsoft YaHei'",
+    "terminal.integrated.fontSize": 14,
 
+    // ==================== 终端外观 ====================
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.smoothScrolling": false,
+
+    // ==================== 界面字体 ====================
+    "workbench.fontAliasing": "antialiased",
+    
     "claudeCodeChat.permissions.yoloMode": true
 }

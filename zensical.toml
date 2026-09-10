@@ -63,6 +63,7 @@ nav = [
     ] },
     { "AI文档" = [
         { "VS Code 配置指南" = "aidocs/vscode-config.md" },
+        { "OpenAI Python 库示例" = "aidocs/openai-api-examples.md" },
     ] },
 ]
 
