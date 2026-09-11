@@ -65,6 +65,9 @@ nav = [
         { "VS Code 配置指南" = "aidocs/vscode-config.md" },
         { "OpenAI Python 库示例" = "aidocs/openai-api-examples.md" },
     ] },
+    { "技术报告" = [
+        { "2026.9.13 技术报告" = "techreport/2026.9.13.md" },
+    ] },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize

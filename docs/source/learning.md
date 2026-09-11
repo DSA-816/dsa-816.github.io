@@ -59,4 +59,3 @@
 > 南大PA - 及其艰难的实践项目、因缺乏对“无聊”事物的持续兴趣没能坚持下来
 
 [PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2022/0.2.html)
- 
